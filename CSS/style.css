@@ -1,0 +1,136 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+header {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    
+}
+main {
+    
+}
+section { 
+    
+}
+.post1 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+}
+
+section {}
+
+.post2 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+}
+
+section {}
+
+.post3 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+}
+
+section {}
+
+.post4 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+}
+
+section {}
+
+.post5 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;    
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+}
+
+section {}
+
+.post6 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+}
+
+section {}
+
+.post7 {
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 0.5rem; 
+    cursor: pointer;
+    transition: all 0.3s ease
+    
+}
+
+section article:hover{
+    box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.551);
+}
+
+section article h2, section article p {
+    margin: 1rem;
+}
+
+footer {
+    background-color: gray;
+    padding: 2rem;
+    color: white;
+    margin: 30px 0 0 0;
+    text-align: center;
+}
+
+footer a {
+    transition: color 0.3s ease;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+footer a:hover {
+    color: cornflowerblue;
+    text-align: center;
+}
